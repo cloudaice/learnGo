@@ -1,4 +1,4 @@
-package restart
+package useage
 
 func Foo(channel chan string) {
 	defer func() {
