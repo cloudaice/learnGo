@@ -1,4 +1,4 @@
 learnGo
 =======
 
-there are something about Go Useage
+there are something about Go Language
